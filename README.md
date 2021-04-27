@@ -104,3 +104,8 @@ term
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+
+---
+Download the above Markdown Cheat Sheet and build **Next Level github profile** 😉.
+Enjoy!
